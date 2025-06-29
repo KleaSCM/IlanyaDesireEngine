@@ -1,0 +1,89 @@
+2025-06-29 15:05:54,634 - DesireEngine - INFO - Initializing Desire Engine with modular architecture
+2025-06-29 15:05:54,636 - DesireEngine - INFO - All modules initialized successfully
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Using device: cpu
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Desire Engine initialization complete
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Processing 13 trait activations
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Found 12 positive traits
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_1 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_2 (strength: 0.894)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_3 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_4 (strength: 0.730)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_5 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_6 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_7 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_8 (strength: 0.991)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_9 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_10 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_11 (strength: 0.942)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Reinforced desire desire_12 (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Created emergent desire: Emergent: Desire for Openness To Experience + Desire for Conscientiousness (strength: 0.977)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Created emergent desire: Emergent: Desire for Openness To Experience + Desire for Extraversion (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Created emergent desire: Emergent: Desire for Openness To Experience + Desire for Creativity (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Created emergent desire: Emergent: Desire for Openness To Experience + Desire for Curiosity (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Created emergent desire: Emergent: Desire for Openness To Experience + Desire for Ambition (strength: 1.000)
+2025-06-29 15:05:54,636 - DesireEngine - INFO - Processed 66 desire interactions
+2025-06-29 15:05:54,637 - DesireEngine - INFO - Computed metrics: entropy=2.833, complexity=0.892
+2025-06-29 15:05:56,638 - DesireEngine - INFO - Processing 13 trait activations
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Found 12 positive traits
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_1 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_2 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_3 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_4 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_5 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_6 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_7 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_8 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_9 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_10 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_11 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Reinforced desire desire_12 (strength: 1.000)
+2025-06-29 15:05:56,639 - DesireEngine - INFO - Processed 66 desire interactions
+2025-06-29 15:05:56,640 - DesireEngine - INFO - Computed metrics: entropy=2.833, complexity=1.333
+2025-06-29 15:05:58,640 - DesireEngine - INFO - Processing 13 trait activations
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Found 12 positive traits
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_1 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_2 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_3 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_4 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_5 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_6 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_7 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_8 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_9 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_10 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_11 (strength: 1.000)
+2025-06-29 15:05:58,641 - DesireEngine - INFO - Reinforced desire desire_12 (strength: 1.000)
+2025-06-29 15:05:58,642 - DesireEngine - INFO - Processed 66 desire interactions
+2025-06-29 15:05:58,642 - DesireEngine - INFO - Computed metrics: entropy=2.833, complexity=1.776
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Processing 13 trait activations
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Found 12 positive traits
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_1 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_2 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_3 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_4 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_5 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_6 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_7 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_8 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_9 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_10 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_11 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Reinforced desire desire_12 (strength: 1.000)
+2025-06-29 15:06:00,643 - DesireEngine - INFO - Processed 66 desire interactions
+2025-06-29 15:06:00,644 - DesireEngine - INFO - Computed metrics: entropy=2.833, complexity=2.219
+2025-06-29 15:06:02,644 - DesireEngine - INFO - Processing 13 trait activations
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Found 12 positive traits
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_1 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_2 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_3 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_4 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_5 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_6 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_7 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_8 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_9 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_10 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_11 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Reinforced desire desire_12 (strength: 1.000)
+2025-06-29 15:06:02,645 - DesireEngine - INFO - Processed 66 desire interactions
+2025-06-29 15:06:02,646 - DesireEngine - INFO - Computed metrics: entropy=2.833, complexity=2.662

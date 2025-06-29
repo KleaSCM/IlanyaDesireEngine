@@ -1,0 +1,297 @@
+{
+  "desires": {
+    "desire_1": {
+      "id": "desire_1",
+      "name": "Desire for Openness To Experience",
+      "source_traits": [
+        "openness_to_experience"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373244",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364354",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_2": {
+      "id": "desire_2",
+      "name": "Desire for Conscientiousness",
+      "source_traits": [
+        "conscientiousness"
+      ],
+      "strength": 1.0,
+      "base_strength": 0.84,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373313",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364394",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_3": {
+      "id": "desire_3",
+      "name": "Desire for Extraversion",
+      "source_traits": [
+        "extraversion"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373370",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364423",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_4": {
+      "id": "desire_4",
+      "name": "Desire for Agreeableness",
+      "source_traits": [
+        "agreeableness"
+      ],
+      "strength": 1.0,
+      "base_strength": 0.69,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373414",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364447",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_5": {
+      "id": "desire_5",
+      "name": "Desire for Creativity",
+      "source_traits": [
+        "creativity"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373460",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364470",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_6": {
+      "id": "desire_6",
+      "name": "Desire for Curiosity",
+      "source_traits": [
+        "curiosity"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373502",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364492",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_7": {
+      "id": "desire_7",
+      "name": "Desire for Ambition",
+      "source_traits": [
+        "ambition"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373543",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364513",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_8": {
+      "id": "desire_8",
+      "name": "Desire for Social Connection",
+      "source_traits": [
+        "social_connection"
+      ],
+      "strength": 1.0,
+      "base_strength": 0.9099999999999999,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373583",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364532",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_9": {
+      "id": "desire_9",
+      "name": "Desire for Learning Desire",
+      "source_traits": [
+        "learning_desire"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373623",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364553",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_10": {
+      "id": "desire_10",
+      "name": "Desire for Innovation",
+      "source_traits": [
+        "innovation"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373664",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364571",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_11": {
+      "id": "desire_11",
+      "name": "Desire for Exploration",
+      "source_traits": [
+        "exploration"
+      ],
+      "strength": 1.0,
+      "base_strength": 0.875,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373706",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364591",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    },
+    "desire_12": {
+      "id": "desire_12",
+      "name": "Desire for Problem Solving",
+      "source_traits": [
+        "problem_solving"
+      ],
+      "strength": 1.0,
+      "base_strength": 1.0,
+      "reinforcement_count": 6,
+      "last_reinforcement": "2025-06-29T14:51:07.373744",
+      "state": "reinforced",
+      "creation_time": "2025-06-29T14:50:59.364614",
+      "decay_rate": 0.1,
+      "attention_weight": 1.0,
+      "interaction_strength": 0.5,
+      "goal_potential": 0.6,
+      "goal_threshold": 0.8,
+      "emergent": false
+    }
+  },
+  "pruned_desires": {},
+  "goal_candidates": [],
+  "trait_desire_mapping": {
+    "openness_to_experience": [
+      "desire_1"
+    ],
+    "conscientiousness": [
+      "desire_2"
+    ],
+    "extraversion": [
+      "desire_3"
+    ],
+    "agreeableness": [
+      "desire_4"
+    ],
+    "creativity": [
+      "desire_5"
+    ],
+    "curiosity": [
+      "desire_6"
+    ],
+    "ambition": [
+      "desire_7"
+    ],
+    "social_connection": [
+      "desire_8"
+    ],
+    "learning_desire": [
+      "desire_9"
+    ],
+    "innovation": [
+      "desire_10"
+    ],
+    "exploration": [
+      "desire_11"
+    ],
+    "problem_solving": [
+      "desire_12"
+    ]
+  },
+  "desire_counter": 12,
+  "last_decay_check": "2025-06-29T14:50:59.364250",
+  "last_pruning_check": "2025-06-29T14:50:59.364251",
+  "module_states": {
+    "interaction": {
+      "interaction_matrix": null,
+      "history_length": 0,
+      "total_interactions": 330,
+      "synergy_count": 0,
+      "conflict_count": 0,
+      "emergent_desires_created": 0
+    },
+    "temporal": {
+      "temporal_memory_size": 5,
+      "seasonal_patterns": {}
+    },
+    "threshold": {
+      "adaptive_thresholds": {},
+      "threshold_history_length": 60
+    },
+    "information": {
+      "entropy_calculation_enabled": true,
+      "complexity_metrics_enabled": true
+    }
+  }
+}
