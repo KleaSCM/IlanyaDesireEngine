@@ -50,8 +50,14 @@ class DesireEmbeddingModule(nn.Module):
         # State embedding layers
         self.state_embedding = nn.Embedding(5, config.desire_dim // 8)  # 5 possible states
         
+        # Calculate total embedding size
+        semantic_size = config.desire_dim // 4  # 16
+        numerical_size = (config.desire_dim // 8) * 3  # 8 * 3 = 24
+        trait_size = config.desire_dim // 4  # 16
+        state_size = config.desire_dim // 8  # 8
+        total_embedding_size = semantic_size + numerical_size + trait_size + state_size  # 16 + 24 + 16 + 8 = 64
+        
         # Fusion network
-        total_embedding_size = (config.desire_dim // 4) + (config.desire_dim // 8) * 4
         self.fusion_network = nn.Sequential(
             nn.Linear(total_embedding_size, config.hidden_dim),
             nn.ReLU(),
@@ -64,6 +70,15 @@ class DesireEmbeddingModule(nn.Module):
         """Create embeddings for a list of desires."""
         if not desires:
             return torch.empty(0, self.config.desire_dim)
+        
+        # State mapping for embedding
+        state_mapping = {
+            "active": 0,
+            "reinforced": 1,
+            "goal_candidate": 2,
+            "weakening": 3,
+            "pruned": 4
+        }
         
         embeddings = []
         
@@ -85,7 +100,8 @@ class DesireEmbeddingModule(nn.Module):
                 trait_emb = self.trait_embedding(torch.tensor(0, dtype=torch.long))
             
             # State embedding
-            state_emb = self.state_embedding(torch.tensor(desire.state.value, dtype=torch.long))
+            state_idx = state_mapping.get(desire.state.value, 0)  # Default to active if unknown
+            state_emb = self.state_embedding(torch.tensor(state_idx, dtype=torch.long))
             
             # Concatenate all embeddings
             combined_emb = torch.cat([
